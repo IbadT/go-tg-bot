@@ -1,1 +1,1 @@
-# Golang telegram bot Pocket
+# Golang telegram bot Pocket (SDK)
